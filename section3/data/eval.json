@@ -1,0 +1,402 @@
+[
+  {
+    "text": "I was charged twice for the April invoice and still have not received a refund.",
+    "label": "billing"
+  },
+  {
+    "text": "Your invoice shows ten seats, but we only have six active users.",
+    "label": "billing"
+  },
+  {
+    "text": "The March bill still includes the analytics add-on that I removed last month.",
+    "label": "billing"
+  },
+  {
+    "text": "Why did my annual renewal bill use the old price instead of the contracted discount?",
+    "label": "billing"
+  },
+  {
+    "text": "I canceled on Friday, but my credit card was charged again this morning.",
+    "label": "billing"
+  },
+  {
+    "text": "The tax amount on invoice INV-2041 looks too high for our location.",
+    "label": "billing"
+  },
+  {
+    "text": "Please explain why the prorated credit is missing from my downgrade invoice.",
+    "label": "billing"
+  },
+  {
+    "text": "My receipt shows a currency conversion fee that was never mentioned before.",
+    "label": "billing"
+  },
+  {
+    "text": "We were billed for storage overages even though usage stayed below the limit.",
+    "label": "billing"
+  },
+  {
+    "text": "The invoice total does not match the quote your sales team sent us.",
+    "label": "billing"
+  },
+  {
+    "text": "I need a corrected invoice because the VAT number is wrong and the total is off.",
+    "label": "billing"
+  },
+  {
+    "text": "Our renewal should be monthly now, but the system billed us for a full year.",
+    "label": "billing"
+  },
+  {
+    "text": "The payment portal shows an overdue balance even after the wire cleared yesterday.",
+    "label": "billing"
+  },
+  {
+    "text": "I was charged once for the base plan and again for the exact same seats.",
+    "label": "billing"
+  },
+  {
+    "text": "Why did the invoice jump after we removed three contractors from the workspace?",
+    "label": "billing"
+  },
+  {
+    "text": "We were promised a service credit after the outage, but it is not on the invoice.",
+    "label": "billing"
+  },
+  {
+    "text": "The bill says we used premium support, but we never enabled that feature.",
+    "label": "billing"
+  },
+  {
+    "text": "I need help because my invoice keeps regenerating with the wrong subscription tier.",
+    "label": "billing"
+  },
+  {
+    "text": "The charge on my statement is higher than the amount shown inside the billing page.",
+    "label": "billing"
+  },
+  {
+    "text": "My cancellation was confirmed, yet the May subscription fee still posted to the card.",
+    "label": "billing"
+  },
+  {
+    "text": "The export to CSV button does nothing when I click it from the dashboard.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "SSO login loops back to the sign-in page every time I try to access the admin console.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Uploading a file larger than 10 MB causes the web app to freeze indefinitely.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The mobile app crashes right after I tap the notifications tab.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Creating a webhook returns a 500 error even though the payload is valid JSON.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The page turns blank whenever I switch from one workspace to another.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Saving dashboard filters silently fails and my changes disappear after refresh.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I cannot generate the invoice preview because the screen just spins forever.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The API keeps timing out on a request that normally completes in a second.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Our report never finishes loading after I select the last 90 days.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The admin portal logs me out every time I open the user management screen.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Clicking save on the workflow builder has no effect and there is no error message.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The billing page shows a broken layout on Firefox and I cannot submit payment details.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "We see duplicate webhook events because the retry status never updates.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The dashboard editor hangs when I add a second chart to the canvas.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "My API token works in staging but every production call comes back unauthorized.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The mobile push notification opens the wrong report when tapped.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Each time I import the CSV template, the field mapping step resets itself.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "The audit log page is stuck on a loading spinner for all admins in our tenant.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "I get an unknown server error whenever I try to approve a pending request.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Please add scheduled PDF exports so our finance team does not have to run reports manually.",
+    "label": "feature_request"
+  },
+  {
+    "text": "It would be useful to have dark mode in the dashboard for evening shifts.",
+    "label": "feature_request"
+  },
+  {
+    "text": "We need SAML group mapping so access rules update automatically from our identity provider.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Can you add webhook retry alerts to the admin console?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Our approvers want bulk approval actions inside the workflow screen.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Please support undo after deleting a dashboard by mistake.",
+    "label": "feature_request"
+  },
+  {
+    "text": "We would like native Slack notifications for failed jobs and escalations.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Add role-based approval rules so only finance managers can approve large invoices.",
+    "label": "feature_request"
+  },
+  {
+    "text": "It would help if the reporting module could schedule a weekly email digest.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Please add a read-only audit log export for compliance reviews.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Our team wants a mobile approval flow instead of only desktop approvals.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Can you support API usage quotas by workspace rather than only account-wide?",
+    "label": "feature_request"
+  },
+  {
+    "text": "I want dashboard widgets to snap into a grid automatically when dragged.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Please add templated comments for approvers so recurring notes are faster to enter.",
+    "label": "feature_request"
+  },
+  {
+    "text": "We need the system to route requests based on cost center before final approval.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Add a setting to mute low-priority notifications during weekends.",
+    "label": "feature_request"
+  },
+  {
+    "text": "It would be useful to compare two saved reports side by side.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Can the product support multiple invoice approvers in sequence?",
+    "label": "feature_request"
+  },
+  {
+    "text": "Please add custom branding on exported PDFs for customer-facing reports.",
+    "label": "feature_request"
+  },
+  {
+    "text": "I would like a preview mode before publishing dashboard edits to the team.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Support has ignored my last three emails and nobody owns the issue.",
+    "label": "complaint"
+  },
+  {
+    "text": "The last agent closed the case without solving anything and marked it resolved anyway.",
+    "label": "complaint"
+  },
+  {
+    "text": "Your outage update was vague, late, and honestly not acceptable.",
+    "label": "complaint"
+  },
+  {
+    "text": "The onboarding session felt rushed and we left with more questions than answers.",
+    "label": "complaint"
+  },
+  {
+    "text": "I keep getting transferred between teams instead of receiving a real answer.",
+    "label": "complaint"
+  },
+  {
+    "text": "The response from support was dismissive and did not address the actual problem.",
+    "label": "complaint"
+  },
+  {
+    "text": "Your documentation sent us in circles and wasted half a day.",
+    "label": "complaint"
+  },
+  {
+    "text": "I was promised a callback yesterday and nobody contacted me.",
+    "label": "complaint"
+  },
+  {
+    "text": "This is the second time a serious outage happened with almost no communication from your team.",
+    "label": "complaint"
+  },
+  {
+    "text": "The support portal is confusing and the ticket updates are impossible to follow.",
+    "label": "complaint"
+  },
+  {
+    "text": "My account manager keeps changing and no one seems accountable.",
+    "label": "complaint"
+  },
+  {
+    "text": "I am unhappy with how long it takes to get even a basic answer from support.",
+    "label": "complaint"
+  },
+  {
+    "text": "Your team keeps asking me to repeat the same details on every reply.",
+    "label": "complaint"
+  },
+  {
+    "text": "This experience has been frustrating because the issue was bounced around for days.",
+    "label": "complaint"
+  },
+  {
+    "text": "The way this case was handled was careless and unprofessional.",
+    "label": "complaint"
+  },
+  {
+    "text": "I need to file a complaint about the rude tone in your last message.",
+    "label": "complaint"
+  },
+  {
+    "text": "We lost confidence after the incident review blamed us without any evidence.",
+    "label": "complaint"
+  },
+  {
+    "text": "The promised fix date slipped again and nobody proactively informed us.",
+    "label": "complaint"
+  },
+  {
+    "text": "I do not want another canned response; I want someone to actually take ownership.",
+    "label": "complaint"
+  },
+  {
+    "text": "This has become a complaint because the service quality has dropped every month.",
+    "label": "complaint"
+  },
+  {
+    "text": "Can you send me your SOC 2 report for our vendor review?",
+    "label": "other"
+  },
+  {
+    "text": "What is the mailing address for your billing department?",
+    "label": "other"
+  },
+  {
+    "text": "I need to change the primary account owner email on our workspace.",
+    "label": "other"
+  },
+  {
+    "text": "Do you offer a training webinar for new administrators next month?",
+    "label": "other"
+  },
+  {
+    "text": "Please share your W-9 form so procurement can finish setup.",
+    "label": "other"
+  },
+  {
+    "text": "We are opening a new office and want pricing information for that region.",
+    "label": "other"
+  },
+  {
+    "text": "Can someone from sales contact our procurement team about a larger deployment?",
+    "label": "other"
+  },
+  {
+    "text": "Where can I find documentation on API rate limits and burst behavior?",
+    "label": "other"
+  },
+  {
+    "text": "Do you have a public status page we can subscribe to?",
+    "label": "other"
+  },
+  {
+    "text": "How do I update our company legal name on the account?",
+    "label": "other"
+  },
+  {
+    "text": "Can you confirm whether your support team is available on local holidays?",
+    "label": "other"
+  },
+  {
+    "text": "I need a copy of the signed order form for our records.",
+    "label": "other"
+  },
+  {
+    "text": "Which email should we use for security notifications from your side?",
+    "label": "other"
+  },
+  {
+    "text": "Please let me know if you support invoices in Japanese for our Tokyo office.",
+    "label": "other"
+  },
+  {
+    "text": "Do you provide implementation partners in the Middle East region?",
+    "label": "other"
+  },
+  {
+    "text": "We need the latest product brochure for an internal steering meeting.",
+    "label": "other"
+  },
+  {
+    "text": "Can you point me to your documentation for account deactivation steps?",
+    "label": "other"
+  },
+  {
+    "text": "I want to know the date of your next roadmap webinar.",
+    "label": "other"
+  },
+  {
+    "text": "Who should we contact to discuss a reseller partnership?",
+    "label": "other"
+  },
+  {
+    "text": "Please share the support escalation phone number for our records.",
+    "label": "other"
+  }
+]

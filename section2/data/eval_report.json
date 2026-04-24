@@ -1,0 +1,465 @@
+{
+  "precision_at_3": 1.0,
+  "hits": 13,
+  "total": 13,
+  "refusal_accuracy": 1.0,
+  "refusal_hits": 4,
+  "refusal_total": 4,
+  "by_question_type": {
+    "notice_period": {
+      "hits": 3,
+      "total": 3
+    },
+    "survival_clause": {
+      "hits": 1,
+      "total": 1
+    },
+    "governing_law": {
+      "hits": 1,
+      "total": 1
+    },
+    "invoice_terms": {
+      "hits": 1,
+      "total": 1
+    },
+    "liability_cap": {
+      "hits": 2,
+      "total": 2
+    },
+    "service_credit": {
+      "hits": 1,
+      "total": 1
+    },
+    "uptime_commitment": {
+      "hits": 1,
+      "total": 1
+    },
+    "patent_termination": {
+      "hits": 1,
+      "total": 1
+    },
+    "redistribution_conditions": {
+      "hits": 1,
+      "total": 1
+    },
+    "warranty_disclaimer": {
+      "hits": 1,
+      "total": 1
+    }
+  },
+  "details": [
+    {
+      "question": "What is the notice period in the NDA with Vendor X?",
+      "kind": "retrieval",
+      "question_type": "notice_period",
+      "expected_answer": "30 days' written notice.",
+      "returned_answer": "The notice period is 30 days' written notice.",
+      "hit": true,
+      "matched_rank": 3,
+      "matched_document": "vendor_x_nda.pdf",
+      "matched_page": 3,
+      "answer_method": "heuristic",
+      "retrieved": [
+        {
+          "document": "vendor_x_nda.pdf",
+          "page": 1,
+          "score": 0.527
+        },
+        {
+          "document": "vendor_y_msa.pdf",
+          "page": 1,
+          "score": 0.434
+        },
+        {
+          "document": "vendor_x_nda.pdf",
+          "page": 3,
+          "score": 0.434
+        }
+      ]
+    },
+    {
+      "question": "How long do confidentiality obligations survive termination in the NDA with Vendor X?",
+      "kind": "retrieval",
+      "question_type": "survival_clause",
+      "expected_answer": "The confidentiality obligations survive termination for three years.",
+      "returned_answer": "The confidentiality obligations survive termination for three years.",
+      "hit": true,
+      "matched_rank": 1,
+      "matched_document": "vendor_x_nda.pdf",
+      "matched_page": 2,
+      "answer_method": "heuristic",
+      "retrieved": [
+        {
+          "document": "vendor_x_nda.pdf",
+          "page": 2,
+          "score": 0.621
+        },
+        {
+          "document": "vendor_x_nda.pdf",
+          "page": 1,
+          "score": 0.469
+        },
+        {
+          "document": "vendor_x_nda.pdf",
+          "page": 3,
+          "score": 0.438
+        }
+      ]
+    },
+    {
+      "question": "Which law governs the NDA with Vendor X?",
+      "kind": "retrieval",
+      "question_type": "governing_law",
+      "expected_answer": "Karnataka, India.",
+      "returned_answer": "The agreement is governed by the laws of Karnataka, India.",
+      "hit": true,
+      "matched_rank": 2,
+      "matched_document": "vendor_x_nda.pdf",
+      "matched_page": 3,
+      "answer_method": "heuristic",
+      "retrieved": [
+        {
+          "document": "vendor_x_nda.pdf",
+          "page": 1,
+          "score": 0.513
+        },
+        {
+          "document": "vendor_x_nda.pdf",
+          "page": 3,
+          "score": 0.399
+        },
+        {
+          "document": "vendor_y_msa.pdf",
+          "page": 1,
+          "score": 0.396
+        }
+      ]
+    },
+    {
+      "question": "When are invoices due under the MSA with Vendor Y?",
+      "kind": "retrieval",
+      "question_type": "invoice_terms",
+      "expected_answer": "Undisputed invoices are due within 30 days after receipt of a valid invoice.",
+      "returned_answer": "Undisputed invoices are due within 30 days after receipt of a valid invoice.",
+      "hit": true,
+      "matched_rank": 2,
+      "matched_document": "vendor_y_msa.pdf",
+      "matched_page": 2,
+      "answer_method": "heuristic",
+      "retrieved": [
+        {
+          "document": "vendor_y_msa.pdf",
+          "page": 1,
+          "score": 0.515
+        },
+        {
+          "document": "vendor_y_msa.pdf",
+          "page": 2,
+          "score": 0.489
+        },
+        {
+          "document": "vendor_x_nda.pdf",
+          "page": 1,
+          "score": 0.365
+        }
+      ]
+    },
+    {
+      "question": "What is the limitation of liability cap in the MSA with Vendor Y?",
+      "kind": "retrieval",
+      "question_type": "liability_cap",
+      "expected_answer": "INR 1,50,00,000.",
+      "returned_answer": "The liability cap is INR 1,50,00,000.",
+      "hit": true,
+      "matched_rank": 1,
+      "matched_document": "vendor_y_msa.pdf",
+      "matched_page": 3,
+      "answer_method": "heuristic",
+      "retrieved": [
+        {
+          "document": "vendor_y_msa.pdf",
+          "page": 3,
+          "score": 0.582
+        },
+        {
+          "document": "cloud_hosting_agreement.pdf",
+          "page": 3,
+          "score": 0.546
+        },
+        {
+          "document": "vendor_y_msa.pdf",
+          "page": 1,
+          "score": 0.474
+        }
+      ]
+    },
+    {
+      "question": "What notice is required to terminate the MSA with Vendor Y for convenience?",
+      "kind": "retrieval",
+      "question_type": "notice_period",
+      "expected_answer": "45 days' written notice.",
+      "returned_answer": "The notice period is 45 days' written notice.",
+      "hit": true,
+      "matched_rank": 1,
+      "matched_document": "vendor_y_msa.pdf",
+      "matched_page": 4,
+      "answer_method": "heuristic",
+      "retrieved": [
+        {
+          "document": "vendor_y_msa.pdf",
+          "page": 4,
+          "score": 0.522
+        },
+        {
+          "document": "cloud_hosting_agreement.pdf",
+          "page": 4,
+          "score": 0.493
+        },
+        {
+          "document": "vendor_y_msa.pdf",
+          "page": 1,
+          "score": 0.48
+        }
+      ]
+    },
+    {
+      "question": "What service credit applies if uptime falls below 99.5 percent in the cloud hosting agreement?",
+      "kind": "retrieval",
+      "question_type": "service_credit",
+      "expected_answer": "A 10 percent credit of the monthly recurring fee.",
+      "returned_answer": "The customer receives a 10 percent service credit of the monthly recurring fee.",
+      "hit": true,
+      "matched_rank": 1,
+      "matched_document": "cloud_hosting_agreement.pdf",
+      "matched_page": 2,
+      "answer_method": "heuristic",
+      "retrieved": [
+        {
+          "document": "cloud_hosting_agreement.pdf",
+          "page": 2,
+          "score": 0.645
+        },
+        {
+          "document": "cloud_hosting_agreement.pdf",
+          "page": 1,
+          "score": 0.452
+        },
+        {
+          "document": "cloud_hosting_agreement.pdf",
+          "page": 3,
+          "score": 0.405
+        }
+      ]
+    },
+    {
+      "question": "Which clause sets the uptime commitment in the cloud hosting agreement?",
+      "kind": "retrieval",
+      "question_type": "uptime_commitment",
+      "expected_answer": "Clause 4. Service Levels sets a 99.5 percent monthly uptime commitment.",
+      "returned_answer": "The 4. Service Levels clause sets a 99.5 percent monthly uptime commitment.",
+      "hit": true,
+      "matched_rank": 2,
+      "matched_document": "cloud_hosting_agreement.pdf",
+      "matched_page": 2,
+      "answer_method": "heuristic",
+      "retrieved": [
+        {
+          "document": "cloud_hosting_agreement.pdf",
+          "page": 1,
+          "score": 0.53
+        },
+        {
+          "document": "cloud_hosting_agreement.pdf",
+          "page": 2,
+          "score": 0.451
+        },
+        {
+          "document": "cloud_hosting_agreement.pdf",
+          "page": 4,
+          "score": 0.422
+        }
+      ]
+    },
+    {
+      "question": "What is the liability cap in the cloud hosting agreement?",
+      "kind": "retrieval",
+      "question_type": "liability_cap",
+      "expected_answer": "INR 75,00,000.",
+      "returned_answer": "The liability cap is INR 75,00,000.",
+      "hit": true,
+      "matched_rank": 1,
+      "matched_document": "cloud_hosting_agreement.pdf",
+      "matched_page": 3,
+      "answer_method": "heuristic",
+      "retrieved": [
+        {
+          "document": "cloud_hosting_agreement.pdf",
+          "page": 3,
+          "score": 0.592
+        },
+        {
+          "document": "cloud_hosting_agreement.pdf",
+          "page": 1,
+          "score": 0.566
+        },
+        {
+          "document": "vendor_y_msa.pdf",
+          "page": 3,
+          "score": 0.464
+        }
+      ]
+    },
+    {
+      "question": "How much notice is required to terminate the cloud hosting agreement for convenience?",
+      "kind": "retrieval",
+      "question_type": "notice_period",
+      "expected_answer": "60 days' written notice.",
+      "returned_answer": "The notice period is 60 days' written notice.",
+      "hit": true,
+      "matched_rank": 1,
+      "matched_document": "cloud_hosting_agreement.pdf",
+      "matched_page": 4,
+      "answer_method": "heuristic",
+      "retrieved": [
+        {
+          "document": "cloud_hosting_agreement.pdf",
+          "page": 4,
+          "score": 0.581
+        },
+        {
+          "document": "vendor_y_msa.pdf",
+          "page": 4,
+          "score": 0.516
+        },
+        {
+          "document": "cloud_hosting_agreement.pdf",
+          "page": 1,
+          "score": 0.495
+        }
+      ]
+    },
+    {
+      "question": "What happens to patent licenses under the Apache License if you file a patent lawsuit?",
+      "kind": "retrieval",
+      "question_type": "patent_termination",
+      "expected_answer": "Patent licenses terminate on the date the litigation is filed.",
+      "returned_answer": "If patent litigation is filed, the patent licenses terminate on the filing date.",
+      "hit": true,
+      "matched_rank": 1,
+      "matched_document": "apache_license_v2.pdf",
+      "matched_page": 2,
+      "answer_method": "heuristic",
+      "retrieved": [
+        {
+          "document": "apache_license_v2.pdf",
+          "page": 2,
+          "score": 0.55
+        },
+        {
+          "document": "apache_license_v2.pdf",
+          "page": 1,
+          "score": 0.48
+        },
+        {
+          "document": "apache_license_v2.pdf",
+          "page": 4,
+          "score": 0.466
+        }
+      ]
+    },
+    {
+      "question": "What conditions must be met when redistributing Derivative Works under the Apache License?",
+      "kind": "retrieval",
+      "question_type": "redistribution_conditions",
+      "expected_answer": "Provide a copy of the license, mark modified files, retain notices, and include NOTICE attributions when applicable.",
+      "returned_answer": "Redistributors must provide a copy of the license, mark modified files, retain notices, and include NOTICE attributions when applicable.",
+      "hit": true,
+      "matched_rank": 1,
+      "matched_document": "apache_license_v2.pdf",
+      "matched_page": 3,
+      "answer_method": "heuristic",
+      "retrieved": [
+        {
+          "document": "apache_license_v2.pdf",
+          "page": 3,
+          "score": 0.505
+        },
+        {
+          "document": "apache_license_v2.pdf",
+          "page": 1,
+          "score": 0.492
+        },
+        {
+          "document": "apache_license_v2.pdf",
+          "page": 4,
+          "score": 0.489
+        }
+      ]
+    },
+    {
+      "question": "Does the Apache License provide any warranty on the Work?",
+      "kind": "retrieval",
+      "question_type": "warranty_disclaimer",
+      "expected_answer": "No. The Work is provided on an AS IS basis without warranties or conditions of any kind.",
+      "returned_answer": "No. The Work is provided on an AS IS basis without warranties or conditions of any kind.",
+      "hit": true,
+      "matched_rank": 1,
+      "matched_document": "apache_license_v2.pdf",
+      "matched_page": 4,
+      "answer_method": "heuristic",
+      "retrieved": [
+        {
+          "document": "apache_license_v2.pdf",
+          "page": 4,
+          "score": 0.509
+        },
+        {
+          "document": "apache_license_v2.pdf",
+          "page": 1,
+          "score": 0.499
+        },
+        {
+          "document": "apache_license_v2.pdf",
+          "page": 3,
+          "score": 0.414
+        }
+      ]
+    },
+    {
+      "question": "What is the arbitration seat in the reseller agreement with Vendor Z?",
+      "kind": "refusal",
+      "question_type": "unsupported_contract",
+      "hit": true,
+      "answer": "I do not have sufficient grounded context to answer that reliably.",
+      "confidence": 0.0,
+      "answer_method": "refusal"
+    },
+    {
+      "question": "What is the liability cap in the NDA with Vendor X?",
+      "kind": "refusal",
+      "question_type": "unsupported_clause",
+      "hit": true,
+      "answer": "I do not have sufficient grounded context to answer that reliably.",
+      "confidence": 0.29,
+      "answer_method": "refusal"
+    },
+    {
+      "question": "Does the MSA with Vendor Y promise service credits?",
+      "kind": "refusal",
+      "question_type": "cross_contract_mismatch",
+      "hit": true,
+      "answer": "I do not have sufficient grounded context to answer that reliably.",
+      "confidence": 0.29,
+      "answer_method": "refusal"
+    },
+    {
+      "question": "What is the renewal term of the cloud hosting agreement?",
+      "kind": "refusal",
+      "question_type": "missing_clause",
+      "hit": true,
+      "answer": "I do not have sufficient grounded context to answer that reliably.",
+      "confidence": 0.29,
+      "answer_method": "refusal"
+    }
+  ]
+}

@@ -1,0 +1,4002 @@
+[
+  {
+    "text": "Dear support, The invoice for multi-seat workspace shows using last month's amount instead of the new plan price. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, Please help because tax calculated incorrectly on my multi-seat workspace bill. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, I was using last month's amount instead of the new plan price for monthly API package. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, I was charged twice for business tier renewal. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, Please help because tax calculated incorrectly on my March subscription bill. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, I was charged twice for analytics add-on. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, Please help because using last month's amount instead of the new plan price on my extra storage plan bill. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, Please help because missing the expected credit on my monthly API package bill. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, I was using last month's amount instead of the new plan price for monthly API package. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, Please help because showing the wrong seat count on my extra storage plan bill. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, Please help because charged twice on my April renewal bill. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, I was billed after cancellation for monthly API package. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, I was still including a removed add-on for business tier renewal. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, I was missing the expected credit for monthly API package. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, I was applying the annual rate instead of the monthly rate for March subscription. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, I was missing the expected credit for April renewal. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, I was using last month's amount instead of the new plan price for enterprise workspace. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, I was missing the expected credit for enterprise workspace. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, Please help because billed after cancellation on my business tier renewal bill. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, I was showing the wrong seat count for monthly API package. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, I was still including a removed add-on for April renewal. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, I was using last month's amount instead of the new plan price for monthly API package. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, Please help because showing the wrong seat count on my business tier renewal bill. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, I was missing the expected credit for analytics add-on. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, Please help because applying the annual rate instead of the monthly rate on my multi-seat workspace bill. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, Please help because tax calculated incorrectly on my business tier renewal bill. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, Please help because showing the wrong seat count on my analytics add-on bill. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, I was tax calculated incorrectly for analytics add-on. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, The invoice for business tier renewal shows billed after cancellation. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, I was charged twice for monthly API package. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, Please help because showing the wrong seat count on my business tier renewal bill. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, The invoice for April renewal shows tax calculated incorrectly. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, I was billed after cancellation for monthly API package. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, I was billed after cancellation for monthly API package. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, The invoice for March subscription shows charged twice. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, The invoice for April renewal shows tax calculated incorrectly. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, I was applying the annual rate instead of the monthly rate for enterprise workspace. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, I was using last month's amount instead of the new plan price for extra storage plan. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, I was billed after cancellation for multi-seat workspace. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, Please help because applying the annual rate instead of the monthly rate on my enterprise workspace bill. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, I was applying the annual rate instead of the monthly rate for March subscription. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, The invoice for multi-seat workspace shows billed after cancellation. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, The invoice for March subscription shows using last month's amount instead of the new plan price. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, Please help because still including a removed add-on on my March subscription bill. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, I was billed after cancellation for April renewal. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, The invoice for multi-seat workspace shows still including a removed add-on. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, The invoice for March subscription shows billed after cancellation. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, Please help because using last month's amount instead of the new plan price on my March subscription bill. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, Please help because using last month's amount instead of the new plan price on my multi-seat workspace bill. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, I was showing the wrong seat count for enterprise workspace. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, I was tax calculated incorrectly for extra storage plan. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, The invoice for business tier renewal shows applying the annual rate instead of the monthly rate. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, I was missing the expected credit for analytics add-on. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, I was applying the annual rate instead of the monthly rate for analytics add-on. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, I was applying the annual rate instead of the monthly rate for March subscription. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, The invoice for multi-seat workspace shows billed after cancellation. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, The invoice for business tier renewal shows still including a removed add-on. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, The invoice for extra storage plan shows using last month's amount instead of the new plan price. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, I was charged twice for monthly API package. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, The invoice for enterprise workspace shows charged twice. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, The invoice for monthly API package shows charged twice. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, Please help because applying the annual rate instead of the monthly rate on my April renewal bill. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, I was showing the wrong seat count for enterprise workspace. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, The invoice for enterprise workspace shows charged twice. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, The invoice for business tier renewal shows tax calculated incorrectly. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, I was still including a removed add-on for enterprise workspace. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, The invoice for business tier renewal shows charged twice. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, Please help because applying the annual rate instead of the monthly rate on my multi-seat workspace bill. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, Please help because billed after cancellation on my April renewal bill. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, I was billed after cancellation for monthly API package. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, The invoice for extra storage plan shows charged twice. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, I was using last month's amount instead of the new plan price for extra storage plan. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, The invoice for March subscription shows using last month's amount instead of the new plan price. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, I was charged twice for enterprise workspace. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, The invoice for enterprise workspace shows using last month's amount instead of the new plan price. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, Please help because using last month's amount instead of the new plan price on my multi-seat workspace bill. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, Please help because missing the expected credit on my multi-seat workspace bill. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, Please help because tax calculated incorrectly on my monthly API package bill. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, Please help because missing the expected credit on my monthly API package bill. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, Please help because showing the wrong seat count on my multi-seat workspace bill. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, The invoice for March subscription shows billed after cancellation. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, The invoice for business tier renewal shows charged twice. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, Please help because using last month's amount instead of the new plan price on my April renewal bill. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, I was using last month's amount instead of the new plan price for business tier renewal. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, The invoice for multi-seat workspace shows using last month's amount instead of the new plan price. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, The invoice for extra storage plan shows using last month's amount instead of the new plan price. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, I was charged twice for monthly API package. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, Please help because charged twice on my analytics add-on bill. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, I was showing the wrong seat count for extra storage plan. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, I was using last month's amount instead of the new plan price for April renewal. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, Please help because billed after cancellation on my monthly API package bill. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, Please help because still including a removed add-on on my March subscription bill. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, Please help because tax calculated incorrectly on my analytics add-on bill. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, Please help because missing the expected credit on my enterprise workspace bill. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, Please help because tax calculated incorrectly on my extra storage plan bill. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, The invoice for analytics add-on shows missing the expected credit. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, I was tax calculated incorrectly for April renewal. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, The invoice for business tier renewal shows still including a removed add-on. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, Please help because missing the expected credit on my business tier renewal bill. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, I was applying the annual rate instead of the monthly rate for extra storage plan. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, Please help because applying the annual rate instead of the monthly rate on my analytics add-on bill. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, The invoice for March subscription shows charged twice. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, Please help because using last month's amount instead of the new plan price on my enterprise workspace bill. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, I was missing the expected credit for enterprise workspace. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, The invoice for enterprise workspace shows charged twice. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, I was applying the annual rate instead of the monthly rate for business tier renewal. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, The invoice for business tier renewal shows applying the annual rate instead of the monthly rate. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, Please help because charged twice on my March subscription bill. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, I was using last month's amount instead of the new plan price for extra storage plan. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, The invoice for April renewal shows tax calculated incorrectly. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, I was billed after cancellation for business tier renewal. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, Please help because applying the annual rate instead of the monthly rate on my monthly API package bill. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, I was still including a removed add-on for enterprise workspace. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, Please help because still including a removed add-on on my enterprise workspace bill. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, I was billed after cancellation for extra storage plan. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, The invoice for extra storage plan shows charged twice. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, I was showing the wrong seat count for monthly API package. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, I was tax calculated incorrectly for April renewal. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, Please help because missing the expected credit on my April renewal bill. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, Please help because billed after cancellation on my April renewal bill. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, The invoice for March subscription shows still including a removed add-on. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, Please help because charged twice on my April renewal bill. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, The invoice for business tier renewal shows applying the annual rate instead of the monthly rate. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, Please help because using last month's amount instead of the new plan price on my April renewal bill. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, Please help because still including a removed add-on on my enterprise workspace bill. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, The invoice for March subscription shows using last month's amount instead of the new plan price. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, The invoice for business tier renewal shows showing the wrong seat count. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, The invoice for multi-seat workspace shows showing the wrong seat count. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, Please help because showing the wrong seat count on my March subscription bill. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, I was charged twice for enterprise workspace. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, Please help because charged twice on my extra storage plan bill. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, I was applying the annual rate instead of the monthly rate for April renewal. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, The invoice for analytics add-on shows showing the wrong seat count. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, Please help because using last month's amount instead of the new plan price on my enterprise workspace bill. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, Please help because charged twice on my business tier renewal bill. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, I was charged twice for extra storage plan. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, I was applying the annual rate instead of the monthly rate for multi-seat workspace. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, Please help because using last month's amount instead of the new plan price on my monthly API package bill. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, Please help because applying the annual rate instead of the monthly rate on my enterprise workspace bill. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, Please help because missing the expected credit on my multi-seat workspace bill. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, Please help because applying the annual rate instead of the monthly rate on my monthly API package bill. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, Please help because missing the expected credit on my monthly API package bill. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, I was missing the expected credit for March subscription. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, I was showing the wrong seat count for business tier renewal. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, Please help because billed after cancellation on my analytics add-on bill. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, The invoice for enterprise workspace shows billed after cancellation. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, I was using last month's amount instead of the new plan price for multi-seat workspace. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, I was applying the annual rate instead of the monthly rate for multi-seat workspace. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, I was using last month's amount instead of the new plan price for analytics add-on. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, The invoice for enterprise workspace shows still including a removed add-on. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, I was applying the annual rate instead of the monthly rate for monthly API package. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, Please help because still including a removed add-on on my extra storage plan bill. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, I was applying the annual rate instead of the monthly rate for April renewal. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, I was using last month's amount instead of the new plan price for multi-seat workspace. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, I was showing the wrong seat count for analytics add-on. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, I was using last month's amount instead of the new plan price for extra storage plan. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, I was applying the annual rate instead of the monthly rate for extra storage plan. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, I was using last month's amount instead of the new plan price for monthly API package. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, Please help because using last month's amount instead of the new plan price on my extra storage plan bill. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, The invoice for April renewal shows missing the expected credit. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, The invoice for business tier renewal shows applying the annual rate instead of the monthly rate. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, The invoice for business tier renewal shows applying the annual rate instead of the monthly rate. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, I was tax calculated incorrectly for enterprise workspace. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, The invoice for analytics add-on shows charged twice. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, I was tax calculated incorrectly for monthly API package. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, Please help because billed after cancellation on my monthly API package bill. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, I was billed after cancellation for monthly API package. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, The invoice for enterprise workspace shows charged twice. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, Please help because missing the expected credit on my analytics add-on bill. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, Please help because using last month's amount instead of the new plan price on my business tier renewal bill. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, The invoice for multi-seat workspace shows tax calculated incorrectly. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, Please help because charged twice on my business tier renewal bill. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, I was billed after cancellation for multi-seat workspace. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, Please help because applying the annual rate instead of the monthly rate on my March subscription bill. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, The invoice for analytics add-on shows tax calculated incorrectly. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, Please help because tax calculated incorrectly on my extra storage plan bill. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, The invoice for monthly API package shows showing the wrong seat count. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, The invoice for monthly API package shows billed after cancellation. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, I was using last month's amount instead of the new plan price for March subscription. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, The invoice for April renewal shows applying the annual rate instead of the monthly rate. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, I was missing the expected credit for analytics add-on. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, Please help because missing the expected credit on my multi-seat workspace bill. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, The invoice for monthly API package shows tax calculated incorrectly. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, Please help because showing the wrong seat count on my multi-seat workspace bill. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, The invoice for multi-seat workspace shows billed after cancellation. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, The invoice for enterprise workspace shows missing the expected credit. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, Please help because showing the wrong seat count on my March subscription bill. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, I was applying the annual rate instead of the monthly rate for multi-seat workspace. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, The invoice for enterprise workspace shows showing the wrong seat count. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Dear support, The invoice for enterprise workspace shows charged twice. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, I was showing the wrong seat count for April renewal. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, Please help because billed after cancellation on my monthly API package bill. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, I was missing the expected credit for April renewal. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, I was still including a removed add-on for multi-seat workspace. Thanks for checking.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, The invoice for business tier renewal shows showing the wrong seat count. Please fix this soon.",
+    "label": "billing"
+  },
+  {
+    "text": "Good morning, Please help because using last month's amount instead of the new plan price on my April renewal bill. I'd appreciate a quick response.",
+    "label": "billing"
+  },
+  {
+    "text": "Hello, I was billed after cancellation for business tier renewal. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi team, Please help because using last month's amount instead of the new plan price on my March subscription bill. Please let me know what happened.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, Please help because missing the expected credit on my monthly API package bill. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, I was charged twice for analytics add-on. This is time sensitive.",
+    "label": "billing"
+  },
+  {
+    "text": "Hi support, The mobile app logs me out during switch workspaces. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, The mobile app spins forever during open the report. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, Every time I create a webhook, mobile app logs me out. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, The CSV export shows a blank screen during sign in with SSO. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, The admin portal spins forever during click export. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, Every time I create a webhook, billing page returns a 500 error. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, Every time I open the report, public API logs me out. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, admin portal crashes when I create a webhook. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, SSO login shows a blank screen when I generate an invoice preview. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, Every time I sign in with SSO, mobile app shows a blank screen. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, The admin portal logs me out during sign in with SSO. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, mobile app logs me out when I open the report. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, Every time I save my changes, billing page fails silently. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, The mobile app fails silently during click export. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, CSV export never finishes loading when I save my changes. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, Every time I sign in with SSO, SSO login fails silently. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, mobile app logs me out when I generate an invoice preview. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, dashboard fails silently when I switch workspaces. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, Every time I upload a CSV, dashboard shows a blank screen. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, Every time I open the report, CSV export fails silently. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, The billing page shows a blank screen during create a webhook. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, The dashboard does nothing during upload a CSV. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, Every time I open the report, SSO login logs me out. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, The public API crashes during generate an invoice preview. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, SSO login logs me out when I generate an invoice preview. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, public API logs me out when I save my changes. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, dashboard crashes when I upload a CSV. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, The CSV export does nothing during save my changes. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, The billing page does nothing during open the report. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, Every time I generate an invoice preview, web app does nothing. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, mobile app spins forever when I open the report. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, mobile app shows a blank screen when I click export. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, Every time I create a webhook, SSO login crashes. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, Every time I switch workspaces, web app shows a blank screen. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, Every time I open the report, public API never finishes loading. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, Every time I generate an invoice preview, web app fails silently. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, CSV export shows a blank screen when I save my changes. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, Every time I click export, mobile app shows a blank screen. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, Every time I sign in with SSO, billing page logs me out. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, The CSV export fails silently during click export. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, Every time I sign in with SSO, public API returns a 500 error. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, The admin portal does nothing during switch workspaces. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, SSO login returns a 500 error when I sign in with SSO. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, Every time I sign in with SSO, admin portal does nothing. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, mobile app shows a blank screen when I generate an invoice preview. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, The admin portal does nothing during click export. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, public API shows a blank screen when I sign in with SSO. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, Every time I save my changes, mobile app logs me out. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, mobile app fails silently when I create a webhook. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, The CSV export never finishes loading during click export. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, SSO login logs me out when I create a webhook. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, Every time I upload a CSV, mobile app never finishes loading. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, web app logs me out when I save my changes. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, Every time I save my changes, mobile app fails silently. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, Every time I generate an invoice preview, SSO login shows a blank screen. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, dashboard does nothing when I upload a CSV. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, The CSV export does nothing during save my changes. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, public API never finishes loading when I upload a CSV. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, Every time I generate an invoice preview, admin portal shows a blank screen. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, billing page crashes when I save my changes. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, Every time I save my changes, dashboard returns a 500 error. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, Every time I sign in with SSO, CSV export shows a blank screen. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, dashboard fails silently when I save my changes. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, mobile app fails silently when I create a webhook. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, Every time I switch workspaces, web app crashes. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, The web app fails silently during switch workspaces. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, Every time I open the report, SSO login spins forever. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, Every time I save my changes, billing page logs me out. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, dashboard logs me out when I sign in with SSO. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, dashboard crashes when I create a webhook. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, The CSV export shows a blank screen during save my changes. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, The web app spins forever during click export. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, Every time I switch workspaces, mobile app fails silently. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, Every time I click export, web app never finishes loading. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, dashboard logs me out when I generate an invoice preview. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, dashboard does nothing when I switch workspaces. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, CSV export spins forever when I generate an invoice preview. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, SSO login fails silently when I create a webhook. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, web app does nothing when I create a webhook. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, The SSO login never finishes loading during sign in with SSO. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, Every time I generate an invoice preview, admin portal does nothing. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, The SSO login does nothing during upload a CSV. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, Every time I upload a CSV, public API crashes. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, mobile app crashes when I switch workspaces. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, Every time I open the report, web app crashes. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, Every time I generate an invoice preview, admin portal returns a 500 error. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, The SSO login fails silently during save my changes. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, web app returns a 500 error when I save my changes. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, web app crashes when I sign in with SSO. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, Every time I upload a CSV, dashboard fails silently. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, billing page logs me out when I sign in with SSO. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, admin portal fails silently when I save my changes. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, dashboard shows a blank screen when I save my changes. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, Every time I generate an invoice preview, mobile app fails silently. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, Every time I save my changes, public API crashes. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, The SSO login shows a blank screen during click export. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, Every time I generate an invoice preview, web app shows a blank screen. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, CSV export returns a 500 error when I open the report. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, public API never finishes loading when I generate an invoice preview. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, The web app crashes during click export. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, The mobile app never finishes loading during open the report. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, Every time I generate an invoice preview, admin portal returns a 500 error. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, Every time I create a webhook, billing page fails silently. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, public API fails silently when I save my changes. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, Every time I generate an invoice preview, admin portal returns a 500 error. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, dashboard spins forever when I generate an invoice preview. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, SSO login spins forever when I generate an invoice preview. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, Every time I sign in with SSO, billing page logs me out. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, Every time I open the report, SSO login never finishes loading. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, The dashboard never finishes loading during upload a CSV. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, Every time I generate an invoice preview, mobile app returns a 500 error. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, mobile app fails silently when I click export. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, Every time I sign in with SSO, public API crashes. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, The web app shows a blank screen during open the report. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, Every time I generate an invoice preview, admin portal fails silently. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, The web app shows a blank screen during open the report. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, web app never finishes loading when I generate an invoice preview. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, mobile app fails silently when I switch workspaces. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, The web app fails silently during generate an invoice preview. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, The SSO login returns a 500 error during save my changes. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, Every time I upload a CSV, admin portal crashes. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, The SSO login crashes during generate an invoice preview. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, mobile app never finishes loading when I upload a CSV. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, web app returns a 500 error when I save my changes. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, The dashboard returns a 500 error during click export. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, SSO login logs me out when I switch workspaces. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, public API does nothing when I sign in with SSO. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, The billing page never finishes loading during open the report. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, Every time I click export, SSO login crashes. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, Every time I upload a CSV, SSO login returns a 500 error. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, The mobile app shows a blank screen during upload a CSV. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, CSV export fails silently when I click export. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, The mobile app never finishes loading during create a webhook. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, The SSO login shows a blank screen during switch workspaces. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, Every time I create a webhook, CSV export shows a blank screen. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, Every time I upload a CSV, mobile app crashes. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, The mobile app does nothing during generate an invoice preview. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, The mobile app returns a 500 error during upload a CSV. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, The public API logs me out during upload a CSV. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, Every time I upload a CSV, billing page crashes. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, dashboard spins forever when I create a webhook. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, The SSO login returns a 500 error during sign in with SSO. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, Every time I create a webhook, SSO login logs me out. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, The mobile app logs me out during click export. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, Every time I generate an invoice preview, SSO login shows a blank screen. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, The public API crashes during open the report. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, Every time I generate an invoice preview, web app spins forever. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, Every time I switch workspaces, admin portal logs me out. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, billing page returns a 500 error when I open the report. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, dashboard returns a 500 error when I open the report. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, Every time I generate an invoice preview, SSO login crashes. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, web app crashes when I sign in with SSO. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, SSO login logs me out when I open the report. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, Every time I sign in with SSO, CSV export returns a 500 error. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, web app logs me out when I upload a CSV. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, billing page shows a blank screen when I upload a CSV. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, Every time I save my changes, CSV export never finishes loading. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, Every time I sign in with SSO, dashboard never finishes loading. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, The mobile app spins forever during open the report. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, The web app never finishes loading during sign in with SSO. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, admin portal logs me out when I open the report. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, Every time I save my changes, web app fails silently. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, The SSO login spins forever during open the report. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, The mobile app logs me out during save my changes. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, Every time I save my changes, web app shows a blank screen. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, Every time I switch workspaces, web app spins forever. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, The CSV export fails silently during open the report. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, The SSO login spins forever during create a webhook. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, Every time I save my changes, admin portal logs me out. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, The mobile app never finishes loading during create a webhook. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, Every time I upload a CSV, CSV export fails silently. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, Every time I sign in with SSO, admin portal returns a 500 error. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, admin portal returns a 500 error when I sign in with SSO. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, The public API shows a blank screen during upload a CSV. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, The public API crashes during save my changes. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, The public API does nothing during sign in with SSO. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, Every time I switch workspaces, admin portal crashes. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, web app spins forever when I create a webhook. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, Every time I create a webhook, SSO login fails silently. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, Every time I sign in with SSO, SSO login never finishes loading. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, billing page shows a blank screen when I open the report. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, The CSV export fails silently during switch workspaces. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, Every time I sign in with SSO, billing page crashes. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, Every time I upload a CSV, mobile app returns a 500 error. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, Every time I open the report, public API shows a blank screen. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, The mobile app crashes during create a webhook. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, Every time I click export, admin portal shows a blank screen. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, Every time I upload a CSV, billing page fails silently. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, Every time I click export, web app fails silently. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, CSV export does nothing when I click export. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, Every time I save my changes, mobile app does nothing. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, CSV export crashes when I click export. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, Every time I create a webhook, billing page spins forever. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, Every time I save my changes, mobile app fails silently. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, The mobile app never finishes loading during create a webhook. I'd appreciate a quick response.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, Every time I open the report, web app fails silently. Thanks for checking.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi support, Every time I save my changes, web app never finishes loading. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hello, The SSO login shows a blank screen during generate an invoice preview. This is time sensitive.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Dear support, Every time I save my changes, admin portal shows a blank screen. Please let me know what happened.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Good morning, Every time I switch workspaces, public API returns a 500 error. Please fix this soon.",
+    "label": "technical_issue"
+  },
+  {
+    "text": "Hi team, Please add bulk approval workflows for API settings page. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Please add SAML group mapping for mobile app. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Please add bulk approval workflows for workflow builder. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, Please add scheduled PDF exports for reporting module. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, Please add undo for deleted dashboards for audit log. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, It would help if the product had SAML group mapping. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, It would help if the product had SAML group mapping. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, Our team wants native Slack notifications in the mobile app. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Our team wants role-based approval rules in the mobile app. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, Our team wants dark mode in the reporting module. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, It would help if the product had bulk approval workflows. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Please add SAML group mapping for reporting module. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Please add webhook retries with alerts for user management screen. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, It would help if the product had role-based approval rules. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, It would help if the product had dark mode. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, It would help if the product had scheduled PDF exports. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, Please add bulk approval workflows for dashboard editor. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, It would help if the product had dark mode. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, Our team wants native Slack notifications in the reporting module. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, It would help if the product had native Slack notifications. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, It would help if the product had native Slack notifications. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Please add scheduled PDF exports for reporting module. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Our team wants dark mode in the API settings page. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Please add bulk approval workflows for user management screen. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Our team wants role-based approval rules in the dashboard editor. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Our team wants webhook retries with alerts in the dashboard editor. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Please add bulk approval workflows for API settings page. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, It would help if the product had SAML group mapping. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, It would help if the product had SAML group mapping. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Our team wants native Slack notifications in the API settings page. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Please add bulk approval workflows for mobile app. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, It would help if the product had role-based approval rules. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, It would help if the product had webhook retries with alerts. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Our team wants role-based approval rules in the API settings page. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, It would help if the product had bulk approval workflows. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, It would help if the product had undo for deleted dashboards. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, Please add webhook retries with alerts for API settings page. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, It would help if the product had bulk approval workflows. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, Our team wants webhook retries with alerts in the reporting module. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, It would help if the product had role-based approval rules. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Our team wants scheduled PDF exports in the API settings page. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, Please add bulk approval workflows for API settings page. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, It would help if the product had native Slack notifications. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, It would help if the product had dark mode. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, It would help if the product had scheduled PDF exports. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Please add SAML group mapping for API settings page. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Our team wants role-based approval rules in the admin console. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Our team wants bulk approval workflows in the mobile app. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Our team wants webhook retries with alerts in the user management screen. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, Our team wants bulk approval workflows in the reporting module. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, It would help if the product had undo for deleted dashboards. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, It would help if the product had undo for deleted dashboards. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Our team wants webhook retries with alerts in the user management screen. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Please add webhook retries with alerts for admin console. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, Please add dark mode for mobile app. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Please add undo for deleted dashboards for admin console. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Please add native Slack notifications for mobile app. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, Please add dark mode for audit log. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, Our team wants native Slack notifications in the mobile app. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Please add native Slack notifications for admin console. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Our team wants role-based approval rules in the user management screen. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Our team wants scheduled PDF exports in the user management screen. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Please add webhook retries with alerts for admin console. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Please add SAML group mapping for API settings page. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, It would help if the product had undo for deleted dashboards. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, Our team wants scheduled PDF exports in the admin console. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Our team wants dark mode in the audit log. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, Please add undo for deleted dashboards for user management screen. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, Our team wants SAML group mapping in the admin console. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Our team wants role-based approval rules in the reporting module. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, Our team wants webhook retries with alerts in the API settings page. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, Our team wants scheduled PDF exports in the admin console. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, Our team wants webhook retries with alerts in the API settings page. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Our team wants bulk approval workflows in the workflow builder. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Our team wants role-based approval rules in the workflow builder. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, It would help if the product had webhook retries with alerts. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, Please add undo for deleted dashboards for admin console. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, It would help if the product had bulk approval workflows. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Our team wants undo for deleted dashboards in the admin console. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, It would help if the product had SAML group mapping. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, It would help if the product had dark mode. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, It would help if the product had role-based approval rules. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Please add dark mode for mobile app. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Our team wants dark mode in the reporting module. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Our team wants scheduled PDF exports in the mobile app. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Our team wants SAML group mapping in the reporting module. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Our team wants undo for deleted dashboards in the audit log. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Our team wants role-based approval rules in the audit log. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Please add role-based approval rules for workflow builder. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, It would help if the product had SAML group mapping. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, Please add role-based approval rules for API settings page. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Our team wants native Slack notifications in the audit log. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, It would help if the product had native Slack notifications. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Our team wants undo for deleted dashboards in the admin console. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, Our team wants bulk approval workflows in the admin console. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Our team wants scheduled PDF exports in the audit log. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Our team wants undo for deleted dashboards in the API settings page. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, Our team wants undo for deleted dashboards in the mobile app. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Please add SAML group mapping for mobile app. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, Please add scheduled PDF exports for user management screen. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, Please add undo for deleted dashboards for reporting module. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, It would help if the product had bulk approval workflows. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Please add scheduled PDF exports for API settings page. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, It would help if the product had role-based approval rules. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, Our team wants undo for deleted dashboards in the audit log. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Our team wants undo for deleted dashboards in the admin console. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Please add scheduled PDF exports for reporting module. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Please add SAML group mapping for mobile app. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, Our team wants SAML group mapping in the API settings page. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Our team wants dark mode in the dashboard editor. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Our team wants webhook retries with alerts in the admin console. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, Our team wants native Slack notifications in the dashboard editor. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, It would help if the product had role-based approval rules. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Please add dark mode for reporting module. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Please add bulk approval workflows for API settings page. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Please add native Slack notifications for mobile app. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Please add dark mode for reporting module. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, It would help if the product had dark mode. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, It would help if the product had dark mode. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, It would help if the product had dark mode. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Our team wants scheduled PDF exports in the admin console. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, It would help if the product had bulk approval workflows. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, Please add native Slack notifications for reporting module. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, Please add role-based approval rules for admin console. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, It would help if the product had scheduled PDF exports. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, It would help if the product had native Slack notifications. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Please add bulk approval workflows for admin console. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Our team wants bulk approval workflows in the audit log. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Our team wants bulk approval workflows in the dashboard editor. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Please add bulk approval workflows for audit log. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Our team wants role-based approval rules in the user management screen. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, Our team wants webhook retries with alerts in the workflow builder. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Please add undo for deleted dashboards for dashboard editor. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, Our team wants role-based approval rules in the workflow builder. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, Please add scheduled PDF exports for user management screen. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, Our team wants native Slack notifications in the API settings page. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, Please add dark mode for admin console. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Please add dark mode for audit log. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, It would help if the product had role-based approval rules. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, It would help if the product had bulk approval workflows. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Our team wants dark mode in the workflow builder. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, It would help if the product had native Slack notifications. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, It would help if the product had SAML group mapping. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, It would help if the product had SAML group mapping. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Please add bulk approval workflows for audit log. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Our team wants webhook retries with alerts in the workflow builder. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, It would help if the product had bulk approval workflows. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Please add scheduled PDF exports for audit log. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Please add scheduled PDF exports for workflow builder. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Please add dark mode for user management screen. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, Our team wants webhook retries with alerts in the reporting module. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Our team wants dark mode in the mobile app. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Our team wants webhook retries with alerts in the workflow builder. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, Please add role-based approval rules for dashboard editor. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, Please add scheduled PDF exports for reporting module. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Please add role-based approval rules for admin console. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Our team wants SAML group mapping in the dashboard editor. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, Our team wants dark mode in the dashboard editor. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Our team wants SAML group mapping in the dashboard editor. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, It would help if the product had undo for deleted dashboards. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, It would help if the product had undo for deleted dashboards. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, It would help if the product had bulk approval workflows. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, Our team wants SAML group mapping in the reporting module. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, It would help if the product had webhook retries with alerts. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, It would help if the product had SAML group mapping. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, It would help if the product had undo for deleted dashboards. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Please add bulk approval workflows for reporting module. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, Our team wants scheduled PDF exports in the workflow builder. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Please add native Slack notifications for audit log. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Please add bulk approval workflows for user management screen. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Our team wants role-based approval rules in the dashboard editor. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Please add scheduled PDF exports for audit log. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, Our team wants bulk approval workflows in the audit log. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Please add native Slack notifications for workflow builder. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, It would help if the product had role-based approval rules. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Please add webhook retries with alerts for API settings page. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Please add SAML group mapping for audit log. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Our team wants SAML group mapping in the admin console. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Our team wants native Slack notifications in the reporting module. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Our team wants undo for deleted dashboards in the admin console. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Our team wants native Slack notifications in the audit log. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Our team wants webhook retries with alerts in the user management screen. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, It would help if the product had SAML group mapping. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Please add SAML group mapping for audit log. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Our team wants bulk approval workflows in the API settings page. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, Our team wants dark mode in the workflow builder. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, It would help if the product had webhook retries with alerts. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Our team wants native Slack notifications in the admin console. Please fix this soon.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, It would help if the product had role-based approval rules. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, Please add dark mode for reporting module. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Good morning, Our team wants dark mode in the mobile app. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, Please add scheduled PDF exports for mobile app. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Please add bulk approval workflows for audit log. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Our team wants SAML group mapping in the workflow builder. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, It would help if the product had role-based approval rules. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Our team wants scheduled PDF exports in the mobile app. Thanks for checking.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hello, It would help if the product had webhook retries with alerts. Please let me know what happened.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Dear support, Please add native Slack notifications for dashboard editor. This is time sensitive.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Please add SAML group mapping for API settings page. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi support, Our team wants scheduled PDF exports in the admin console. I'd appreciate a quick response.",
+    "label": "feature_request"
+  },
+  {
+    "text": "Hi team, I need to complain that I keep getting transferred without any ownership. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I need to complain that the last agent closed my case without solving anything. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, the promised callback never happened. This experience has been poor. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I'm frustrated because the response I received was rude and dismissive. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, the response I received was rude and dismissive. This experience has been poor. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, I need to complain that the promised callback never happened. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, the onboarding call was rushed and unhelpful. This experience has been poor. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, the onboarding call was rushed and unhelpful. This experience has been poor. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I need to complain that the knowledge base article was misleading. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I need to complain that the promised callback never happened. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I need to complain that the knowledge base article was misleading. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I need to complain that the promised callback never happened. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I'm frustrated because your outage communication was vague and late. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I'm frustrated because the last agent closed my case without solving anything. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, the promised callback never happened. This experience has been poor. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, your outage communication was vague and late. This experience has been poor. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I need to complain that the knowledge base article was misleading. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I'm frustrated because the promised callback never happened. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I'm frustrated because your outage communication was vague and late. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I'm frustrated because support has ignored three follow-ups for a week. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I'm frustrated because support has ignored three follow-ups for a week. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I need to complain that your outage communication was vague and late. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I need to complain that I keep getting transferred without any ownership. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I'm frustrated because the onboarding call was rushed and unhelpful. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, your outage communication was vague and late. This experience has been poor. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I'm frustrated because support has ignored three follow-ups for a week. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I'm frustrated because the onboarding call was rushed and unhelpful. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I'm frustrated because the onboarding call was rushed and unhelpful. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I need to complain that the knowledge base article was misleading. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I'm frustrated because support has ignored three follow-ups for a week. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, the promised callback never happened. This experience has been poor. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, the response I received was rude and dismissive. This experience has been poor. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I need to complain that the promised callback never happened. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I'm frustrated because I keep getting transferred without any ownership. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, the last agent closed my case without solving anything. This experience has been poor. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I'm frustrated because support has ignored three follow-ups for a week. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, I'm frustrated because the onboarding call was rushed and unhelpful. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, I'm frustrated because I keep getting transferred without any ownership. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I'm frustrated because the response I received was rude and dismissive. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, I need to complain that the response I received was rude and dismissive. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I'm frustrated because the knowledge base article was misleading. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, the last agent closed my case without solving anything. This experience has been poor. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, I need to complain that your outage communication was vague and late. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I'm frustrated because I keep getting transferred without any ownership. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I'm frustrated because I keep getting transferred without any ownership. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I'm frustrated because the onboarding call was rushed and unhelpful. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, I keep getting transferred without any ownership. This experience has been poor. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, the knowledge base article was misleading. This experience has been poor. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I need to complain that your outage communication was vague and late. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I need to complain that the knowledge base article was misleading. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I'm frustrated because the onboarding call was rushed and unhelpful. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I need to complain that the promised callback never happened. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I'm frustrated because the knowledge base article was misleading. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, I need to complain that I keep getting transferred without any ownership. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I need to complain that support has ignored three follow-ups for a week. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I'm frustrated because the onboarding call was rushed and unhelpful. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I need to complain that the onboarding call was rushed and unhelpful. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, support has ignored three follow-ups for a week. This experience has been poor. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I'm frustrated because I keep getting transferred without any ownership. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I need to complain that the onboarding call was rushed and unhelpful. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I need to complain that the onboarding call was rushed and unhelpful. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I'm frustrated because the onboarding call was rushed and unhelpful. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I need to complain that support has ignored three follow-ups for a week. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, support has ignored three follow-ups for a week. This experience has been poor. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, I need to complain that I keep getting transferred without any ownership. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, I need to complain that the knowledge base article was misleading. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I need to complain that your outage communication was vague and late. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, your outage communication was vague and late. This experience has been poor. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, the last agent closed my case without solving anything. This experience has been poor. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I'm frustrated because support has ignored three follow-ups for a week. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, the promised callback never happened. This experience has been poor. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, I'm frustrated because the promised callback never happened. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, I need to complain that the last agent closed my case without solving anything. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I need to complain that the last agent closed my case without solving anything. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I need to complain that your outage communication was vague and late. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I need to complain that I keep getting transferred without any ownership. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I need to complain that the onboarding call was rushed and unhelpful. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I'm frustrated because the onboarding call was rushed and unhelpful. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, the last agent closed my case without solving anything. This experience has been poor. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I need to complain that the onboarding call was rushed and unhelpful. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, your outage communication was vague and late. This experience has been poor. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I need to complain that the onboarding call was rushed and unhelpful. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, I'm frustrated because the knowledge base article was misleading. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, support has ignored three follow-ups for a week. This experience has been poor. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I'm frustrated because I keep getting transferred without any ownership. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, I'm frustrated because support has ignored three follow-ups for a week. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, I need to complain that the onboarding call was rushed and unhelpful. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, your outage communication was vague and late. This experience has been poor. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, I'm frustrated because the last agent closed my case without solving anything. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, support has ignored three follow-ups for a week. This experience has been poor. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, I keep getting transferred without any ownership. This experience has been poor. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I keep getting transferred without any ownership. This experience has been poor. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I need to complain that the onboarding call was rushed and unhelpful. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I'm frustrated because your outage communication was vague and late. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I keep getting transferred without any ownership. This experience has been poor. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I need to complain that I keep getting transferred without any ownership. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I need to complain that your outage communication was vague and late. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I'm frustrated because support has ignored three follow-ups for a week. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, the onboarding call was rushed and unhelpful. This experience has been poor. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I'm frustrated because I keep getting transferred without any ownership. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, your outage communication was vague and late. This experience has been poor. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I need to complain that the response I received was rude and dismissive. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, the promised callback never happened. This experience has been poor. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I need to complain that support has ignored three follow-ups for a week. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I need to complain that the response I received was rude and dismissive. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I need to complain that support has ignored three follow-ups for a week. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I'm frustrated because your outage communication was vague and late. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I'm frustrated because the response I received was rude and dismissive. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, the response I received was rude and dismissive. This experience has been poor. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, the onboarding call was rushed and unhelpful. This experience has been poor. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, support has ignored three follow-ups for a week. This experience has been poor. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I'm frustrated because your outage communication was vague and late. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, your outage communication was vague and late. This experience has been poor. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I'm frustrated because the last agent closed my case without solving anything. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, support has ignored three follow-ups for a week. This experience has been poor. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, support has ignored three follow-ups for a week. This experience has been poor. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I'm frustrated because your outage communication was vague and late. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, your outage communication was vague and late. This experience has been poor. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, the knowledge base article was misleading. This experience has been poor. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, I'm frustrated because the promised callback never happened. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, I need to complain that support has ignored three follow-ups for a week. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I'm frustrated because the knowledge base article was misleading. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I need to complain that the knowledge base article was misleading. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, the knowledge base article was misleading. This experience has been poor. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I'm frustrated because the promised callback never happened. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I keep getting transferred without any ownership. This experience has been poor. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, the onboarding call was rushed and unhelpful. This experience has been poor. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, the knowledge base article was misleading. This experience has been poor. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, your outage communication was vague and late. This experience has been poor. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, I need to complain that I keep getting transferred without any ownership. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, the knowledge base article was misleading. This experience has been poor. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I need to complain that the last agent closed my case without solving anything. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, the last agent closed my case without solving anything. This experience has been poor. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I need to complain that support has ignored three follow-ups for a week. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I need to complain that the last agent closed my case without solving anything. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I'm frustrated because the knowledge base article was misleading. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I'm frustrated because I keep getting transferred without any ownership. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I'm frustrated because the promised callback never happened. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I need to complain that your outage communication was vague and late. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I need to complain that the knowledge base article was misleading. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, the knowledge base article was misleading. This experience has been poor. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I need to complain that support has ignored three follow-ups for a week. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I'm frustrated because the onboarding call was rushed and unhelpful. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I keep getting transferred without any ownership. This experience has been poor. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I need to complain that the promised callback never happened. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I'm frustrated because the onboarding call was rushed and unhelpful. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I'm frustrated because the promised callback never happened. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, the onboarding call was rushed and unhelpful. This experience has been poor. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, the knowledge base article was misleading. This experience has been poor. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, the promised callback never happened. This experience has been poor. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I need to complain that I keep getting transferred without any ownership. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I need to complain that the knowledge base article was misleading. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I'm frustrated because your outage communication was vague and late. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I'm frustrated because the promised callback never happened. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I'm frustrated because the promised callback never happened. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I'm frustrated because the response I received was rude and dismissive. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I keep getting transferred without any ownership. This experience has been poor. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I need to complain that support has ignored three follow-ups for a week. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I need to complain that I keep getting transferred without any ownership. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, the response I received was rude and dismissive. This experience has been poor. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I'm frustrated because your outage communication was vague and late. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, I need to complain that the response I received was rude and dismissive. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, the promised callback never happened. This experience has been poor. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, I need to complain that the response I received was rude and dismissive. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I'm frustrated because I keep getting transferred without any ownership. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, the onboarding call was rushed and unhelpful. This experience has been poor. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I'm frustrated because the promised callback never happened. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I need to complain that support has ignored three follow-ups for a week. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, I need to complain that the knowledge base article was misleading. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, support has ignored three follow-ups for a week. This experience has been poor. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I'm frustrated because the response I received was rude and dismissive. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I'm frustrated because your outage communication was vague and late. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I'm frustrated because the last agent closed my case without solving anything. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I need to complain that your outage communication was vague and late. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I need to complain that the knowledge base article was misleading. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I'm frustrated because I keep getting transferred without any ownership. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I keep getting transferred without any ownership. This experience has been poor. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, the last agent closed my case without solving anything. This experience has been poor. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I need to complain that I keep getting transferred without any ownership. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I'm frustrated because the knowledge base article was misleading. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I'm frustrated because support has ignored three follow-ups for a week. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I'm frustrated because support has ignored three follow-ups for a week. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, the knowledge base article was misleading. This experience has been poor. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I'm frustrated because the last agent closed my case without solving anything. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, your outage communication was vague and late. This experience has been poor. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I need to complain that I keep getting transferred without any ownership. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I'm frustrated because the promised callback never happened. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I'm frustrated because the response I received was rude and dismissive. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, your outage communication was vague and late. This experience has been poor. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I need to complain that the response I received was rude and dismissive. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I'm frustrated because support has ignored three follow-ups for a week. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, the onboarding call was rushed and unhelpful. This experience has been poor. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, support has ignored three follow-ups for a week. This experience has been poor. Thanks for checking.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, I keep getting transferred without any ownership. This experience has been poor. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I need to complain that the last agent closed my case without solving anything. Please fix this soon.",
+    "label": "complaint"
+  },
+  {
+    "text": "Good morning, the onboarding call was rushed and unhelpful. This experience has been poor. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, I'm frustrated because support has ignored three follow-ups for a week. I'd appreciate a quick response.",
+    "label": "complaint"
+  },
+  {
+    "text": "Dear support, I need to complain that support has ignored three follow-ups for a week. Please let me know what happened.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hello, I need to complain that your outage communication was vague and late. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi team, I'm frustrated because the knowledge base article was misleading. This is time sensitive.",
+    "label": "complaint"
+  },
+  {
+    "text": "Hi support, I need the billing department's mailing address. Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, I need help updating our account owner email. Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I'm reaching out about help updating our account owner email. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, I'm reaching out about a copy of your SOC 2 report. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, I need documentation on API rate limits. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Can you share the billing department's mailing address? Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, I need pricing for a new region before we expand. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, I need a sales demo for another business unit. I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I'm reaching out about your W-9 form for vendor onboarding. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, Can you share a copy of your SOC 2 report? Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, I need help updating our account owner email. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, I need a copy of your SOC 2 report. Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, I'm reaching out about documentation on API rate limits. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Can you share documentation on API rate limits? Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, Can you share the date of the next training webinar? I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, I'm reaching out about documentation on API rate limits. I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, I need the date of the next training webinar. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, I'm reaching out about the date of the next training webinar. Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I need a copy of your SOC 2 report. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, Can you share a sales demo for another business unit? I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Can you share the billing department's mailing address? Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, I need documentation on API rate limits. Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, I need the billing department's mailing address. I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, I need your W-9 form for vendor onboarding. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Can you share help updating our account owner email? Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, I need the date of the next training webinar. I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, I'm reaching out about a copy of your SOC 2 report. Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, Can you share documentation on API rate limits? I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, I need the billing department's mailing address. Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, I'm reaching out about documentation on API rate limits. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I need the billing department's mailing address. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, I'm reaching out about your W-9 form for vendor onboarding. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Can you share documentation on API rate limits? This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, I'm reaching out about a sales demo for another business unit. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I'm reaching out about documentation on API rate limits. I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, I'm reaching out about pricing for a new region before we expand. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, Can you share pricing for a new region before we expand? Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, Can you share help updating our account owner email? Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, I'm reaching out about a sales demo for another business unit. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I need a sales demo for another business unit. I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, I need the date of the next training webinar. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I'm reaching out about the date of the next training webinar. Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I'm reaching out about a sales demo for another business unit. I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, I need a copy of your SOC 2 report. Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Can you share your W-9 form for vendor onboarding? Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I need the billing department's mailing address. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, I'm reaching out about documentation on API rate limits. Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, I'm reaching out about help updating our account owner email. Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, I need documentation on API rate limits. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, Can you share a copy of your SOC 2 report? Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, Can you share the date of the next training webinar? I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Can you share the date of the next training webinar? Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I need help updating our account owner email. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, Can you share your W-9 form for vendor onboarding? Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, Can you share documentation on API rate limits? I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, I'm reaching out about the date of the next training webinar. I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, Can you share your W-9 form for vendor onboarding? This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, I need a copy of your SOC 2 report. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I need a copy of your SOC 2 report. Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, I'm reaching out about the date of the next training webinar. Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, I'm reaching out about pricing for a new region before we expand. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, I'm reaching out about a sales demo for another business unit. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, I need pricing for a new region before we expand. Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, I need a copy of your SOC 2 report. Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, Can you share the date of the next training webinar? Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, I need documentation on API rate limits. I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, I need a sales demo for another business unit. I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, I'm reaching out about your W-9 form for vendor onboarding. Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, I need documentation on API rate limits. Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, I need pricing for a new region before we expand. Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, I need the date of the next training webinar. Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, Can you share help updating our account owner email? This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Can you share the date of the next training webinar? I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, Can you share pricing for a new region before we expand? I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, I'm reaching out about a sales demo for another business unit. I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I need your W-9 form for vendor onboarding. I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, I need the billing department's mailing address. I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, Can you share a sales demo for another business unit? Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, I need documentation on API rate limits. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, I need pricing for a new region before we expand. I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, Can you share a copy of your SOC 2 report? I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, I need your W-9 form for vendor onboarding. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, I'm reaching out about help updating our account owner email. I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, I need the date of the next training webinar. Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, I'm reaching out about pricing for a new region before we expand. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, I'm reaching out about the billing department's mailing address. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I need help updating our account owner email. Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I'm reaching out about a sales demo for another business unit. Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I need documentation on API rate limits. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Can you share documentation on API rate limits? I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I need the billing department's mailing address. Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, I need the date of the next training webinar. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, I need a copy of your SOC 2 report. Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, Can you share help updating our account owner email? Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, I need a sales demo for another business unit. Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, Can you share the billing department's mailing address? Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Can you share the date of the next training webinar? Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, I'm reaching out about pricing for a new region before we expand. Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, I need documentation on API rate limits. I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, Can you share your W-9 form for vendor onboarding? Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, I'm reaching out about help updating our account owner email. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, I'm reaching out about the date of the next training webinar. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Can you share pricing for a new region before we expand? Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, I need documentation on API rate limits. I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, Can you share a sales demo for another business unit? Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, Can you share pricing for a new region before we expand? This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, I'm reaching out about a sales demo for another business unit. Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, I'm reaching out about documentation on API rate limits. Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, I'm reaching out about a copy of your SOC 2 report. Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, I need a copy of your SOC 2 report. Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, Can you share the date of the next training webinar? Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I'm reaching out about a sales demo for another business unit. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, I'm reaching out about your W-9 form for vendor onboarding. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, I'm reaching out about the date of the next training webinar. I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, I need the date of the next training webinar. Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, I need a sales demo for another business unit. Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, Can you share the billing department's mailing address? Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, I need documentation on API rate limits. Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Can you share the billing department's mailing address? I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Can you share the billing department's mailing address? Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, Can you share the billing department's mailing address? Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I'm reaching out about documentation on API rate limits. Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, Can you share documentation on API rate limits? Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, Can you share a copy of your SOC 2 report? This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, I need your W-9 form for vendor onboarding. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, Can you share documentation on API rate limits? This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, I need the billing department's mailing address. Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, Can you share pricing for a new region before we expand? This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I need a sales demo for another business unit. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Can you share documentation on API rate limits? Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, I'm reaching out about pricing for a new region before we expand. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, I need help updating our account owner email. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, I'm reaching out about the billing department's mailing address. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, Can you share pricing for a new region before we expand? Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, Can you share pricing for a new region before we expand? This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, Can you share a sales demo for another business unit? This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, Can you share a sales demo for another business unit? This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I need pricing for a new region before we expand. Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I need pricing for a new region before we expand. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, I need a copy of your SOC 2 report. I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, I'm reaching out about a sales demo for another business unit. Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, Can you share pricing for a new region before we expand? Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, I'm reaching out about the date of the next training webinar. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I need documentation on API rate limits. Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, I'm reaching out about the date of the next training webinar. I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, Can you share pricing for a new region before we expand? This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, Can you share a copy of your SOC 2 report? This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I'm reaching out about documentation on API rate limits. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, Can you share the date of the next training webinar? I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, Can you share a copy of your SOC 2 report? Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, I need the billing department's mailing address. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, I'm reaching out about your W-9 form for vendor onboarding. Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, Can you share a sales demo for another business unit? This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Can you share the billing department's mailing address? This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, I'm reaching out about your W-9 form for vendor onboarding. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I need a sales demo for another business unit. Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I'm reaching out about the billing department's mailing address. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, I need pricing for a new region before we expand. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, I'm reaching out about pricing for a new region before we expand. Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, I'm reaching out about help updating our account owner email. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, Can you share your W-9 form for vendor onboarding? I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, Can you share help updating our account owner email? This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, I'm reaching out about the date of the next training webinar. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, Can you share documentation on API rate limits? Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, I'm reaching out about pricing for a new region before we expand. I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, I need a sales demo for another business unit. Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, I need a copy of your SOC 2 report. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, Can you share a copy of your SOC 2 report? I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, Can you share help updating our account owner email? I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I need your W-9 form for vendor onboarding. Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, Can you share your W-9 form for vendor onboarding? I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, I'm reaching out about the date of the next training webinar. Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, I need documentation on API rate limits. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, I need the date of the next training webinar. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, I'm reaching out about a copy of your SOC 2 report. I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I need a copy of your SOC 2 report. I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, Can you share a sales demo for another business unit? Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, I need documentation on API rate limits. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, Can you share documentation on API rate limits? I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I need the date of the next training webinar. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I need your W-9 form for vendor onboarding. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, Can you share the billing department's mailing address? I'd appreciate a quick response.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, I'm reaching out about a copy of your SOC 2 report. Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, Can you share the date of the next training webinar? Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, I'm reaching out about a copy of your SOC 2 report. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, I'm reaching out about your W-9 form for vendor onboarding. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, I need help updating our account owner email. Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, I need your W-9 form for vendor onboarding. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, I need a sales demo for another business unit. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I'm reaching out about help updating our account owner email. Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Hi support, I'm reaching out about documentation on API rate limits. Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, Can you share the date of the next training webinar? This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, I'm reaching out about a copy of your SOC 2 report. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, Can you share your W-9 form for vendor onboarding? Please fix this soon.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, Can you share documentation on API rate limits? Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I'm reaching out about pricing for a new region before we expand. This is time sensitive.",
+    "label": "other"
+  },
+  {
+    "text": "Hello, I'm reaching out about a copy of your SOC 2 report. Please let me know what happened.",
+    "label": "other"
+  },
+  {
+    "text": "Hi team, Can you share help updating our account owner email? Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Dear support, Can you share the billing department's mailing address? Thanks for checking.",
+    "label": "other"
+  },
+  {
+    "text": "Good morning, I need the billing department's mailing address. This is time sensitive.",
+    "label": "other"
+  }
+]

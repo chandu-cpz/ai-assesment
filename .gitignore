@@ -1,0 +1,9 @@
+.env
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.venv/
+*.pyc
+section2/data/chroma/
+section2/data/pdfs/*.pdf
+section3/models/

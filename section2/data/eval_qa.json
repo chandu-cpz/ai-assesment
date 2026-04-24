@@ -1,0 +1,126 @@
+[
+  {
+    "question": "What is the notice period in the NDA with Vendor X?",
+    "kind": "retrieval",
+    "question_type": "notice_period",
+    "expected_answer": "30 days' written notice.",
+    "expected_document": "vendor_x_nda.pdf",
+    "expected_page": 3
+  },
+  {
+    "question": "How long do confidentiality obligations survive termination in the NDA with Vendor X?",
+    "kind": "retrieval",
+    "question_type": "survival_clause",
+    "expected_answer": "The confidentiality obligations survive termination for three years.",
+    "expected_document": "vendor_x_nda.pdf",
+    "expected_page": 2
+  },
+  {
+    "question": "Which law governs the NDA with Vendor X?",
+    "kind": "retrieval",
+    "question_type": "governing_law",
+    "expected_answer": "Karnataka, India.",
+    "expected_document": "vendor_x_nda.pdf",
+    "expected_page": 3
+  },
+  {
+    "question": "When are invoices due under the MSA with Vendor Y?",
+    "kind": "retrieval",
+    "question_type": "invoice_terms",
+    "expected_answer": "Undisputed invoices are due within 30 days after receipt of a valid invoice.",
+    "expected_document": "vendor_y_msa.pdf",
+    "expected_page": 2
+  },
+  {
+    "question": "What is the limitation of liability cap in the MSA with Vendor Y?",
+    "kind": "retrieval",
+    "question_type": "liability_cap",
+    "expected_answer": "INR 1,50,00,000.",
+    "expected_document": "vendor_y_msa.pdf",
+    "expected_page": 3
+  },
+  {
+    "question": "What notice is required to terminate the MSA with Vendor Y for convenience?",
+    "kind": "retrieval",
+    "question_type": "notice_period",
+    "expected_answer": "45 days' written notice.",
+    "expected_document": "vendor_y_msa.pdf",
+    "expected_page": 4
+  },
+  {
+    "question": "What service credit applies if uptime falls below 99.5 percent in the cloud hosting agreement?",
+    "kind": "retrieval",
+    "question_type": "service_credit",
+    "expected_answer": "A 10 percent credit of the monthly recurring fee.",
+    "expected_document": "cloud_hosting_agreement.pdf",
+    "expected_page": 2
+  },
+  {
+    "question": "Which clause sets the uptime commitment in the cloud hosting agreement?",
+    "kind": "retrieval",
+    "question_type": "uptime_commitment",
+    "expected_answer": "Clause 4. Service Levels sets a 99.5 percent monthly uptime commitment.",
+    "expected_document": "cloud_hosting_agreement.pdf",
+    "expected_page": 2
+  },
+  {
+    "question": "What is the liability cap in the cloud hosting agreement?",
+    "kind": "retrieval",
+    "question_type": "liability_cap",
+    "expected_answer": "INR 75,00,000.",
+    "expected_document": "cloud_hosting_agreement.pdf",
+    "expected_page": 3
+  },
+  {
+    "question": "How much notice is required to terminate the cloud hosting agreement for convenience?",
+    "kind": "retrieval",
+    "question_type": "notice_period",
+    "expected_answer": "60 days' written notice.",
+    "expected_document": "cloud_hosting_agreement.pdf",
+    "expected_page": 4
+  },
+  {
+    "question": "What happens to patent licenses under the Apache License if you file a patent lawsuit?",
+    "kind": "retrieval",
+    "question_type": "patent_termination",
+    "expected_answer": "Patent licenses terminate on the date the litigation is filed.",
+    "expected_document": "apache_license_v2.pdf",
+    "expected_page": 2
+  },
+  {
+    "question": "What conditions must be met when redistributing Derivative Works under the Apache License?",
+    "kind": "retrieval",
+    "question_type": "redistribution_conditions",
+    "expected_answer": "Provide a copy of the license, mark modified files, retain notices, and include NOTICE attributions when applicable.",
+    "expected_document": "apache_license_v2.pdf",
+    "expected_page": 3
+  },
+  {
+    "question": "Does the Apache License provide any warranty on the Work?",
+    "kind": "retrieval",
+    "question_type": "warranty_disclaimer",
+    "expected_answer": "No. The Work is provided on an AS IS basis without warranties or conditions of any kind.",
+    "expected_document": "apache_license_v2.pdf",
+    "expected_page": 4
+  },
+  {
+    "question": "What is the arbitration seat in the reseller agreement with Vendor Z?",
+    "kind": "refusal",
+    "question_type": "unsupported_contract"
+  },
+  {
+    "question": "What is the liability cap in the NDA with Vendor X?",
+    "kind": "refusal",
+    "question_type": "unsupported_clause"
+  },
+  {
+    "question": "Does the MSA with Vendor Y promise service credits?",
+    "kind": "refusal",
+    "question_type": "cross_contract_mismatch"
+  },
+  {
+    "question": "What is the renewal term of the cloud hosting agreement?",
+    "kind": "refusal",
+    "question_type": "missing_clause"
+  }
+]
